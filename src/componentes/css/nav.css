@@ -1,0 +1,23 @@
+.nav{
+    background-color:#f3f3f3;
+    display: flex;
+    float: right;
+    width: 90%;
+    height: 93px;
+    justify-content: space-between
+}
+
+.title{
+    float: right;
+    margin: 0;
+    text-align: center;
+
+    background-color: gainsboro;
+}
+
+.close{
+    float: left;
+    background-color: gainsboro;
+    text-decoration: none;
+    color: black;
+}
